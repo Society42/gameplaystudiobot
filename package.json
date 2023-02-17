@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.9.0",
+    "openai": "^3.1.0",
+    "quick.db": "^9.0.8"
+  },
+  "name": "projectxbot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "Society",
+  "license": "ISC",
+  "description": ""
+}
